@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drink Water Reminder</string>
+    <string name="alarme_mensagem">Time to drink water</string>
+    <string name="clique_na_quantidade_de_agu_consumida">CLICK ON THE QUANTITY OF WATER CONSUMED</string>
+    <string name="_1_litro">1 liter</string>
+    <string name="_0_0_litro">0,0 liter</string>
+    <string name="total_de_gua_consumida">TOTAL WATER CONSUMED</string>
+    <string name="resetar_contador">RESET COUNTER</string>
+    <string name="definir_alarme">SET ALARM</string>
+</resources>

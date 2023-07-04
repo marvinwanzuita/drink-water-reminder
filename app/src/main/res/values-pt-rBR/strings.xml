@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lembrar de Tomar Água</string>
+    <string name="alarme_mensagem">Hora de beber água</string>
+    <string name="clique_na_quantidade_de_agu_consumida">CLIQUE NA QUANTIDADE DE AGUÁ CONSUMIDA</string>
+    <string name="_1_litro">1 litro</string>
+    <string name="_0_0_litro">0,0 litro</string>
+    <string name="total_de_gua_consumida">TOTAL DE ÁGUA CONSUMIDA</string>
+    <string name="resetar_contador">RESETAR CONTADOR</string>
+    <string name="definir_alarme">DEFINIR ALARME</string>
+</resources>
